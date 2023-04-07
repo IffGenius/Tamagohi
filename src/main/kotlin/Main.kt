@@ -1,6 +1,6 @@
 fun main() {
     var input=0
-    val pet: Tamagohi = Tamagohi()
+
     val muhtar: Dog = Dog()
 
 
